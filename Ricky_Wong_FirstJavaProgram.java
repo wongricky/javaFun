@@ -1,4 +1,4 @@
-public class PracticeProgram{
+public class FirstJaveProgram{
     public static void main(String[] args){
         System.out.println("My name is Ricky");
         System.out.println("I am 30 years old");
